@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI & Data Science**
 
-- 📫 How to reach me **adeelwaraich27@gmail.com**
+- 📫 How to reach me **adeelwaraich.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
