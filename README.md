@@ -6,7 +6,7 @@
     alt="coding" width="400">
 
 - Currently Working At [Techtornix Solutions](https://techtornix.com) 
-- I have Worked [Hypernexis](https://hypernexis.tech)
+- I have Worked at [Hypernexis](https://hypernexis.tech)
 
 - 📫 How to reach me **adeelwaraich.tech@gmail.com**
 
