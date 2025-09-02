@@ -6,7 +6,7 @@
     alt="coding" width="400">
 
 - 💼 Currently Working At
-- [Techtornix Solutions](https://techtornix.com) - [Hypernexis Solutions](https://hypernexis.tech)**
+- [Techtornix Solutions](https://techtornix.com) - [Hypernexis](https://hypernexis.tech)
 
 - 📫 How to reach me **adeelwaraich.tech@gmail.com**
 
